@@ -42,8 +42,8 @@ Output Results:
 ![image](https://github.com/user-attachments/assets/c0242aee-a52f-495d-98b3-234a1be33340)
 ![image](https://github.com/user-attachments/assets/8c19f0d8-48ec-4cd0-ba9a-f3f5e638f4bd)
 
-VIDEO :
-[main.webm](https://github.com/user-attachments/assets/735895e3-0f1b-4b56-8b76-10fc3523689a)
+VIDEO :  https://drive.google.com/file/d/1v9W-i95JbQdGvdB4s-8Fmb-pG1f99_SU/view?usp=drivesdk
+
 
 REPORT PAPER:
 [REPORT_DOS_Main.pdf](https://github.com/user-attachments/files/19797855/REPORT_DOS_Main.pdf)
