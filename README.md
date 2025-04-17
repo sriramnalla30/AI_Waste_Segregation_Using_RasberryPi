@@ -45,9 +45,13 @@ Output Results:
 VIDEO :
 [main.webm](https://github.com/user-attachments/assets/735895e3-0f1b-4b56-8b76-10fc3523689a)
 
+REPORT PAPER:
+[REPORT_DOS_Main.pdf](https://github.com/user-attachments/files/19797855/REPORT_DOS_Main.pdf)
+
+PLAGARISM CHECK:
+![WhatsApp Image 2025-04-17 at 21 28 21_df4d496d](https://github.com/user-attachments/assets/d2698490-7c88-4155-be64-6049dcbbeba8)
 
 PPT PRESENTATION: 
-
 [PPT.pdf](https://github.com/user-attachments/files/19797526/PPT.pdf)
 
 
