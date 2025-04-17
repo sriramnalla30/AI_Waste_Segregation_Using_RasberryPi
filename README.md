@@ -37,3 +37,8 @@ ____________________________________________________
 | `Keras`        | Model interface                 |
 | `cv2.imshow()` | Display results window          |
 ____________________________________________________
+
+Output Results:
+![image](https://github.com/user-attachments/assets/c0242aee-a52f-495d-98b3-234a1be33340)
+![image](https://github.com/user-attachments/assets/8c19f0d8-48ec-4cd0-ba9a-f3f5e638f4bd)
+
