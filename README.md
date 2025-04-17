@@ -1,0 +1,1 @@
+# AI_Waste_Segregation_Using_RasberryPi
